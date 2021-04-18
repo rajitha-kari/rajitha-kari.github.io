@@ -24,7 +24,7 @@
         "choices":[
             "Head, Title, HTML, body",
             "HTML, Body, Title, Head",
-            "HTML, Head, Title, Body",
+            "HTML, Head, script, Body",
             "HTML, Head, Title, Body"
         ],
         "correctAnswer":3
@@ -87,7 +87,7 @@
             "background-color",
             "background-color"
         ],
-        "correctAnswer":2
+        "correctAnswer":1
     },
     {
         "title":"Are the negative values allowed in padding property?",
