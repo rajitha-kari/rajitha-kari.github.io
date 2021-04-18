@@ -1,96 +1,102 @@
 [
     {
-      "question": "Why We Use <br> Element",
-      "choices":[
-      "To Make Text Bold",
-      "To Make Text Italic",
-      "To Add Breakline",
-      "To Create Horizontal Line",
-      "To Add Breakline"
-      ],
-      "correctAnswer": 2
+        "title":"Which of the following attribute can hold the JavaScript version?",
+        "choices":[
+            "LANGUAGE",
+            "SCRIPT",
+            "VERSION",
+            "None of the above"
+        ],
+        "correctAnswer":0
     },
     {
-      "question": "Is <img> Element Has Attribute href",
-      "choices":[
-      "Yes",
-      "No Its For Anchor Tag <a>",
-      "All Elements Has This Attribute",
-      "Answer 1 And 3 Is Right",
-      "No Its For Anchor Tag <a>"
-      ],
-      "correctAnswer": 1
+        "title":"HTML stands for -",
+        "choices":[
+            "HighText Machine Language",
+            "HyperText and links Markup Language",
+            "HyperText Markup Language",
+            "None of the above"
+        ],
+        "correctAnswer":2
     },
     {
-        "question": "How Can We Make Element Text Bold",
+        "title":" The correct sequence of HTML tags for starting a webpage is -",
         "choices":[
-        "Putting It Inside <b> Tag",
-        "Putting It Inside <strong> Tag",
-        "Customizing It With Font-Weight Property In CSS",
-        "All Answers Is Right"
-      ],
-      "correctAnswer": 3
-      },
-      {
-        "question": "What Is The Right Hierarchy For Creating Part Of Page",
+            "Head, Title, HTML, body",
+            "HTML, Body, Title, Head",
+            "HTML, Head, Title, Body",
+            "HTML, Head, Title, Body"
+        ],
+        "correctAnswer":3
+    },
+    {
+        "title":"Which of the following tag is used for inserting the largest heading in HTML?",
         "choices":[
-        "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
-         "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
-         "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
-        "All Solutions Is Wrong"
-      ],
-      "correctAnswer": 3
-
-      },
-      {
-        "question": "How Can We Include External Page Inside Our HTML Page",
+            "<h3>",
+            "<h1>",
+            "<h5>",
+            "<h6>"
+        ],
+        "correctAnswer":1
+    },
+    {
+        "title":"Which HTML tag is used to display the power in expression, i.e., (x2 - y2)?",
         "choices":[
-        "By Using Include in HTML",
-         "By Using Load In HTML",
-         "By Using iFrame Tag",
-        "All Solutions Is Wrong"
-      ],
-      "correctAnswer": 2
-      },
-      {
-        "question": "What Is The Tag That Not Exists in HTML",
+            "<sup>",
+            "<sub>",
+            "<p>",
+            "None of the above"
+        ],
+        "correctAnswer":0
+    },
+    {
+        "title":"CSS stands for -",
         "choices":[
-        "<object>",
-         "<basefont>",
-         "<abbr>",
-        "All Tags Is Exists in HTML"
-      ],
-      "correctAnswer": 3
-      },
-      {
-        "question": "How We Specify Document Type Of HTML5 Page",
+            "Cascade style sheets",
+            "Color and style sheets",
+            "Cascading style sheets",
+            "None of the above"
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":"The property in CSS used to change the background color of an element is -?",
         "choices":[
-        "<DOCTYPE html>",
-        "<DOCTYPE html5>",
-        "<!DOCTYPE html5>",
-        "<!DOCTYPE html>"
-      ],
-      "correctAnswer": 3
-      },
-      {
-        "question": "What Is The Element Thats Not Exists in HTML5 Semantics",
+            "bgcolor",
+            "color",
+            "background-color",
+            "All of the above"
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":"The HTML attribute used to define the inline styles is -",
         "choices":[
-        
-        "<article>",
-        "<section>",
-        "<blockquote>",
-        "<aside>"
-      ],
-      "correctAnswer": 2
-      },
-      {
-        "question": "In HTML Can We Use This Way To Add Attributes",
+            "style",
+            "styles",
+            "class",
+            "None of the above"
+        ],
+        "correctAnswer":0
+    },
+    {
+        "title":"Which of the following CSS property is used to set the background image of an element?",
         "choices":[
-        "<div class='class-name'>",
-        "<div class=class-name>",
-        "<div class=\"class-name\">",
-        "All Is Right"
-      ],
-      "correctAnswer": 3
-      }
-    ]
+            "background-attachment",
+            "background-image",
+            "background-color",
+            "background-color"
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":"Are the negative values allowed in padding property?",
+        "choices":[
+            "Yes",
+            "No",
+            "Can't say",
+            "May be"
+        ],
+        "correctAnswer":1
+    }
+]
