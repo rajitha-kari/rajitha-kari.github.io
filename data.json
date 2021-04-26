@@ -1,1 +1,1 @@
-[{"task":"Task1","date":"26-04-2021","time":"9:00"},{"task":"Task2","date":"27-04-2021","time":"9:00"},{"task":"Task3","date":"28-04-2021","time":"9:00"},{"task":"Task4","date":"29-04-2021","time":"9:00"}]
+[{"input":"Task1","date":"26-04-2021","deadline":"9:00"},{"input":"Task2","date":"27-04-2021","deadline":"9:00"},{"input":"Task3","date":"28-04-2021","deadline":"9:00"},{"input":"Task4","date":"29-04-2021","deadline":"9:00"}]
