@@ -1,1 +1,1 @@
-[{"input":"Task1","date":"26-04-2021","deadline":"9:00"},{"input":"Task2","date":"27-04-2021","deadline":"9:00"},{"input":"Task3","date":"28-04-2021","deadline":"9:00"},{"input":"Task4","date":"29-04-2021","deadline":"9:00"}]
+{"1":[["task1","20:00"],["task2","22:00"],["task3","18:00"]]}
